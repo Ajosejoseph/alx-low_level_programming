@@ -16,12 +16,10 @@ void print_to_98(int n)
 		{
 			if (a != 98)
 				printf("%d, ", a);
-
 			else if (a == 98)
 				printf("%d\n", a);
 		}
-	}
-	else if (n <= 98)
+	} else if (n <= 98)
 	{
 		for (c = n; c <= 98; c++)
 		{
