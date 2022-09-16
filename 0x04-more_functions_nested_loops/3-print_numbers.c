@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
- * Return: 0
+ * print_numbers - check the code
+ * Return: void
 */
 
-int main(void)
+void print_numbers(void)
 {
 	int i;
 
