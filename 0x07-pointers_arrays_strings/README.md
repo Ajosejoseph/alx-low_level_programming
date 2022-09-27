@@ -6,3 +6,4 @@
 5-strstr.c write a function that locates a substring.
 7-print_chessboard.c write a program that prints a chessboard
 8-print_diagsums.c write a function that prints the sum of the two diagonals of a square matrix of integers
+100-set_string.c write a function that sets the value of a pointerto a char
