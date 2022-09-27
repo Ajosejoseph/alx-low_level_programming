@@ -5,3 +5,4 @@
 4-strpbrk.c write a program that searches a string for any of a set of bytes.
 5-strstr.c write a function that locates a substring.
 7-print_chessboard.c write a program that prints a chessboard
+8-print_diagsums.c write a function that prints the sum of the two diagonals of a square matrix of integers
